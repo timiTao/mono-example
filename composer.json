@@ -1,0 +1,13 @@
+{
+    "name": "timitao/mono-example",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "timitao/monob": "v0.2.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "TimiTao\\MonoExample\\": "src"
+        }
+    }
+}
